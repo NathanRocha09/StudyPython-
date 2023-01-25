@@ -1,2 +1,2 @@
 # StudyPython-
-Este repositorio é sobre meus estudos, aonde exploro e tento desenvolver oque aprendo 
+Este repositorio é sobre meus estudos, onde exploro e tento desenvolver o que aprendo 
